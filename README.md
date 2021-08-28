@@ -25,3 +25,25 @@ yarn install
 truffle develop
 ```
 
+- Compile the contracts
+```bash
+truffle compile
+```
+
+- Deployed on the Blockchain. 
+```bash
+truffle migrate
+```
+
+- Run the Express server
+```bash
+npm start
+
+or
+
+yarn start
+```
+
+- In the browser window open [http://localhost:3000/](http://localhost:3000/)
+
+
